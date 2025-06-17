@@ -3,6 +3,7 @@ const express = require("express");
 //const login = require("../controller/login");
 //const cluster = require("../controller/cluster");
 //const registration = require("../controller/registration");
+const unusedVar = "";
 const userController = require("../controller/userController");
 const userController = require("../controller/userController");
 const productController = require("../controller/productController");
