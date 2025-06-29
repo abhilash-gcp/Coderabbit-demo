@@ -1,9 +1,12 @@
 const express = require("express");
 //const router = express.Router();
 //const login = require("../controller/login");
-const cluster = require("../controller/cluster");
+//const cluster = require("../controller/cluster");
 const registration = require("../controller/registration");
+const unusedVar = "";
 const userController = require("../controller/userController");
+const userController = require("../controller/userController");
+
 const productController = require("../controller/productController");
 const mailController = require("../controller/mailController");
 
