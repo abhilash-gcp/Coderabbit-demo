@@ -6,6 +6,7 @@ const express = require("express");
 const unusedVar = "";
 const userController = require("../controller/userController");
 const userController = require("../controller/userController");
+
 const productController = require("../controller/productController");
 const mailController = require("../controller/mailController");
 
